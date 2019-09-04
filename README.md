@@ -3,7 +3,7 @@ A Java based space survival game
 
 #### How to play (GUI)
 1. Ensure Java 11 is installed on the machine
-2. Open zip folder in terminal window
+2. Download and open zip folder in terminal window
 3. Start the game by calling `java -jar game_gui.jar` in the terminal
    - The folder from which this file is called must also contain the resources folder provided
 4. Select how many days the game should played over
@@ -36,7 +36,7 @@ You may also edit the planets and consumables used in the game
 
 #### How to play (CLI)
 1. Ensure Java 11 is installed on the machine
-2. Open zip folder in terminal window
+2. Download and open zip folder in terminal window
 3. Start the game by calling `java -jar game_cli.jar` in the terminal
 4. Enter the number of days to play for
 5. Select the crew members that you want by entering the corresponding numbers in a single line
